@@ -1,0 +1,5 @@
+The test svs file (CMU-1-Small-Region.svs) is taken from the OpenSlide project and is licensed under the terms spacified in ./OpenSlideLicence.txt
+
+OpenSeadragon is licensed under the terms specified in ./js/openseadragon/LICENCE.txt
+
+Any code not covered by the above licences is licensed under GNU LGPL version 2.1 and is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details.
