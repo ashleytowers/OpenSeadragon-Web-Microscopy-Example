@@ -39,3 +39,5 @@ Change index.html
 To get your new files in to the web page you'll need to put them in a public folder and then change the "tileSources" parameter to point to the relative path of your new file.
 
 A more comprehensive guide is available in this [blog post](http://www.ashleytowers.co.uk/publishing-aperio-svs-virtual-microscopy-images-to-the-web-using-vips-openslide-and-openseadragon/)
+
+**Edit:** Wayback machine has a copy of the above post from my (long) defunct blog available [here](https://web.archive.org/web/20161028051758/http://www.ashleytowers.co.uk/publishing-aperio-svs-virtual-microscopy-images-to-the-web-using-vips-openslide-and-openseadragon/)
